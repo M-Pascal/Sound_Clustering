@@ -13,7 +13,7 @@ Below is a description of each visualization included in this repository.
    - This visualization represents the extracted features from the sound data. The features are derived using Mel Spectrograms, which capture the frequency content of the sound signals over time.
    - The plot shows the mean Mel Spectrogram values across different frequency bins, providing insights into the spectral characteristics of the sound data.
      
-![Image_1](https://postimg.cc/gXVDdsMN)
+[![download.png](https://i.postimg.cc/wvPbXbD8/download.png)](https://postimg.cc/gXVDdsMN)
 
 ## 2.This visualizations comparing **PCA** and **t-SNE** for dimensionality reduction in 3D space.
 
@@ -24,7 +24,7 @@ while preserving as much variance as possible.
 
 - The t-SNE visualization presents clusters that are more compact and highlight relationships between similar data points.
 
-![Image_2](https://postimg.cc/qhVL9SGN)
+[![download-1.png](https://i.postimg.cc/zB3cR1bF/download-1.png)](https://postimg.cc/qhVL9SGN)
 
 ## 3. **Elbow Method Visualization**
 
@@ -35,7 +35,7 @@ while preserving as much variance as possible.
    -  The "elbow" point in the plot indicates the optimal number of clusters, where adding more clusters does not significantly reduce inertia.
    -  This method helps in selecting the most appropriate number of clusters for the sound data.
 
-![Image_3](https://postimg.cc/mPk8MQDg)
+[![download-3.png](https://i.postimg.cc/pLY7wCMz/download-3.png)](https://postimg.cc/mPk8MQDg)
 
 ## 2. **K-Means Clustering Visualization**
 **Description**:
@@ -44,7 +44,7 @@ while preserving as much variance as possible.
    -  The plot shows the clusters formed by grouping similar sound features together, with each cluster represented by a different color.
    -   The x-axis and y-axis represent the reduced dimensions of the data, and the plot helps in understanding the distribution and separation of clusters identified by the K-Means algorithm.
 
-![Image_4](https://postimg.cc/3dntdL3q)
+[![download-4.png](https://i.postimg.cc/3xHVf6V3/download-4.png)](https://postimg.cc/3dntdL3q)
 
 
 ## 4. **Final Clusters (t-SNE Visualization with K-Means Labels)**
