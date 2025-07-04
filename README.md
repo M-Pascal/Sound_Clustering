@@ -55,5 +55,5 @@ while preserving as much variance as possible.
    -  The plot shows the t-SNE components on the x and y axes, with each point colored according to its K-Means cluster label.
    -  This visualization helps in understanding the separation and distribution of clusters in a reduced-dimensional space, providing insights into the effectiveness of the K-Means clustering.
 
-![Image_5](https://postimg.cc/7CT9twSv)
+[![download-5.png](https://i.postimg.cc/R0gYF0F0/download-5.png)](https://postimg.cc/7CT9twSv)
      
