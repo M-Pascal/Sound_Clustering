@@ -13,7 +13,7 @@ Below is a description of each visualization included in this repository.
    - This visualization represents the extracted features from the sound data. The features are derived using Mel Spectrograms, which capture the frequency content of the sound signals over time.
    - The plot shows the mean Mel Spectrogram values across different frequency bins, providing insights into the spectral characteristics of the sound data.
      
-![Image_1](./images/download.png)
+![Image_1](https://postimg.cc/4nKCnHcC)
 
 ## 2.This visualizations comparing **PCA** and **t-SNE** for dimensionality reduction in 3D space.
 
