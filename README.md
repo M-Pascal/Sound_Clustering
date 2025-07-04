@@ -13,18 +13,18 @@ Below is a description of each visualization included in this repository.
    - This visualization represents the extracted features from the sound data. The features are derived using Mel Spectrograms, which capture the frequency content of the sound signals over time.
    - The plot shows the mean Mel Spectrogram values across different frequency bins, providing insights into the spectral characteristics of the sound data.
      
-![Image_1](https://postimg.cc/4nKCnHcC)
+![Image_1](https://postimg.cc/gXVDdsMN)
 
 ## 2.This visualizations comparing **PCA** and **t-SNE** for dimensionality reduction in 3D space.
 
 - Principal Component Analysis (PCA) is a linear dimensionality reduction technique that projects high-dimensional data into a lower-dimensional space 
 while preserving as much variance as possible.
 
-- The PCA visualization shows a more spread-out distribution of points, reflecting its ability to retain global structuret-Distributed Stochastic Neighbor Embedding (t-SNE) is a non-linear dimensionality reduction method that focuses on preserving local structures. 
+- The PCA visualization shows a more spread-out distribution of points, reflecting its ability to retain global structure Distributed Stochastic Neighbor Embedding (t-SNE) is a non-linear dimensionality reduction method that focuses on preserving local structures. 
 
 - The t-SNE visualization presents clusters that are more compact and highlight relationships between similar data points.
 
-![Image_2](./images/download%20(2).png)
+![Image_2](https://postimg.cc/qhVL9SGN)
 
 ## 3. **Elbow Method Visualization**
 
@@ -35,7 +35,7 @@ while preserving as much variance as possible.
    -  The "elbow" point in the plot indicates the optimal number of clusters, where adding more clusters does not significantly reduce inertia.
    -  This method helps in selecting the most appropriate number of clusters for the sound data.
 
-![Image_3](./images/download%20(3).png)
+![Image_3](https://postimg.cc/mPk8MQDg)
 
 ## 2. **K-Means Clustering Visualization**
 **Description**:
@@ -44,7 +44,7 @@ while preserving as much variance as possible.
    -  The plot shows the clusters formed by grouping similar sound features together, with each cluster represented by a different color.
    -   The x-axis and y-axis represent the reduced dimensions of the data, and the plot helps in understanding the distribution and separation of clusters identified by the K-Means algorithm.
 
-![Image_4](./images/download%20(4).png)
+![Image_4](https://postimg.cc/3dntdL3q)
 
 
 ## 4. **Final Clusters (t-SNE Visualization with K-Means Labels)**
@@ -55,5 +55,5 @@ while preserving as much variance as possible.
    -  The plot shows the t-SNE components on the x and y axes, with each point colored according to its K-Means cluster label.
    -  This visualization helps in understanding the separation and distribution of clusters in a reduced-dimensional space, providing insights into the effectiveness of the K-Means clustering.
 
-![Image_5](./images/download%20(5).png)
+![Image_5](https://postimg.cc/7CT9twSv)
      
